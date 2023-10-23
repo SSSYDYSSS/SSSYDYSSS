@@ -13,6 +13,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   - 📫 [![Twitter Badge](https://img.shields.io/badge/-twitter-191d84?style=flat-square&logo=Twitter&logoColor=white&link=)](https://twitter.com/Dongyue_Yu)
   - 👯 _Searching Engine_ developer
+    -  _algorithm_ developers
+    -  _software_ developers
+    -  _data visualization_ developers
+    -  _data mining_ collaborators
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=SSSYDYSSS&show_icons=true&theme=gotham" alt="SSSYDYSSS" width="300" height="240" />
 
