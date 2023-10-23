@@ -11,8 +11,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ##
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="250" />
 
-  - 📫 [![Twitter Badge](https://img.shields.io/badge/-twitter-191d84?style=flat-square&logo=Twitter&logoColor=white&link=)](https://twitter.com/Dongyue_Yu)
-  - 👯 _Searching Engine_ developer
+  - 📫 How to reach me:
+    - [![Twitter Badge](https://img.shields.io/badge/-twitter-042198?style=flat-square&logo=Twitter&logoColor=white&link=)](https://twitter.com/Dongyue_Yu)
+    - ![Email](https://img.shields.io/badge/Email-yudongyue%40mail.nankai.edu.cn-e5a331?style=flat-square&logo=microsoft-outlook&logoColor=ffffff)
+  - 👯 _Searching_ developer：
     -  _algorithm_ developers
     -  _software_ developers
     -  _data visualization_ developers
