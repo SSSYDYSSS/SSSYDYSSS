@@ -10,7 +10,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
 
-  - 📫 [![Twitter Badge](https://img.shields.io/badge/-twitter-191d84?style=flat-square&logo=Twitter&logoColor=white&link=)](https://twitter.com/Dongyue_Yu) [![Gmail Badge](https://img.shields.io/badge/-email-fec54f?style=flat-square&logo=email&logoColor=white&link=mailto:yudongyue@mail.nankai.edu.cn)](mailto:yudongyue@mail.nankai.edu.cn)
+  - 📫 [![Twitter Badge](https://img.shields.io/badge/-twitter-191d84?style=flat-square&logo=Twitter&logoColor=white&link=)](https://twitter.com/Dongyue_Yu)
   - 👯 _Searching Engine_ developer
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=SSSYDYSSS&show_icons=true&theme=gotham" alt="SSSYDYSSS" width="300" height="200" />
