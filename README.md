@@ -9,7 +9,7 @@
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 ##
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="250" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="210" />
 
   - 📫 How to reach me:
     - [![Twitter Badge](https://img.shields.io/badge/-twitter-042198?style=flat-square&logo=Twitter&logoColor=white&link=)](https://twitter.com/Dongyue_Yu)
@@ -20,7 +20,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     -  _data visualization_ developers
     -  _data mining_ collaborators
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=SSSYDYSSS&show_icons=true&theme=gotham" alt="SSSYDYSSS" width="300" height="240" />
+
+## my github stats 👋
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SSSYDYSSS&show_icons=true&theme=gotham" alt="SSSYDYSSS" />
 
 ## 
 
@@ -43,6 +45,6 @@ Here are some ideas to get you started:
 -->
 
 
-### my github stats 👋
+
 
 
