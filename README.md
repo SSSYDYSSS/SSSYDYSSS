@@ -58,6 +58,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 </div>
 
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SSSYDYSSS&show_icons=true&theme=gotham" alt="SSSYDYSSS" style="width: auto; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSYDYSSS&layout=compact&theme=tokyonight" alt="SSSYDYSSS" style="width: auto; height: auto;" />
+</div>
+
+
 
 <!--
 **SSSYDYSSS/SSSYDYSSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
