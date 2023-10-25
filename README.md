@@ -10,27 +10,17 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ## R packages
 
-- :🎆: <a href="https://github.com/junjunlab/BioSeqUtils">***RiboProfiler***</a>
-:🎆: <a href="https://github.com/junjunlab/BioSeqUtils">***BioSeqUtils***</a>
-:🎆: <a href="https://github.com/junjunlab/ClusterGVis">***ClusterGVis***</a>
-:🎆: <a href="https://github.com/junjunlab/jjPlot">***jjPlot***</a>
-:🎆: <a href="https://github.com/junjunlab/jjAnno">***jjAnno***</a>
-:🎆: <a href="https://github.com/junjunlab/transPlotR">***transPlotR***</a>
-:🎆: <a href="https://github.com/junjunlab/GseaVis">***GseaVis***</a>
-:🎆: <a href="https://github.com/junjunlab/scRNAtoolVis">***scRNAtoolVis***</a>
-:🎆: <a href="https://github.com/junjunlab/tackPlotR">***tackPlotR***</a>
+- :🎆: <a href="https://github.com/SSSYDYSSS/TransProR">***TransProR***</a>
 
 ## Python packages
 
 - :🎇: <a href="https://github.com/SSSYDYSSS/TransProPy">***TransProPy***</a>
-:🎇: <a href="https://github.com/junjunlab/GetGeneLength">***GetGeneLength***</a>
-:🎇: <a href="https://github.com/junjunlab/GetTsite">***GetTsite***</a>
 
 ## Quarto book
 
-- :📔: <a href="sssydysss.github.io/VividCodeRBook/">***VividCodeRBook***</a>
-:📔: <a href="sssydysss.github.io/TransProRBook/">***TransProRBook***</a>
-:📔: <a href="sssydysss.github.io/AlgoToolsRBook/">***AlgoToolsRBook***</a>
+- :📔: <a href="https://github.com/SSSYDYSSS/VividCodeRBook">***VividCodeRBook***</a>
+:📔: <a href="https://github.com/SSSYDYSSS/AlgoToolsRBook">***TransProRBook***</a>
+:📔: <a href="https://github.com/SSSYDYSSS/TransProRBook">***AlgoToolsRBook***</a>
 
 ## ask me about anything, i am happy to help
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="210" />
