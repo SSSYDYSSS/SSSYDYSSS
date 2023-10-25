@@ -45,9 +45,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SSSYDYSSS&show_icons=true&theme=gotham" alt="SSSYDYSSS" style="width: 40%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SSSYDYSSS&show_icons=true&theme=gotham" alt="SSSYDYSSS" style="width: 30%; height: auto;" />
    <div style="flex-grow: 10;"></div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSYDYSSS&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 40%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSYDYSSS&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 30%; height: auto;" />
 </div>
 
 
