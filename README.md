@@ -42,26 +42,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSYDYSSS&layout=compact&theme=tokyonight" style="width: 47%; height: auto; object-fit: contain;" />
 </div>
 
-
-<div style="width: 300px; height: 350px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SSSYDYSSS&show_icons=true&theme=tokyonight" style="width: auto; height: auto; object-fit: contain;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSYDYSSS&layout=compact&theme=tokyonight" style="width: auto; height: auto; object-fit: contain;" />
-</div>
-
-
-
-<div style="width: 500px; height: 300px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SSSYDYSSS&show_icons=true&theme=tokyonight" style="width: 48%; height: 50%; object-fit: contain;" />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight)
-
-</div>
-
-
-<div style="width: 600px; height: 350px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SSSYDYSSS&show_icons=true&theme=tokyonight" style="width: 48%; height: 20%; object-fit: contain;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSYDYSSS&layout=compact&theme=tokyonight" style="width: 48%; height: 20%; object-fit: contain;" />
-</div>
-
 <!--
 **SSSYDYSSS/SSSYDYSSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
