@@ -19,8 +19,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ## Quarto book
 
 - :📔: <a href="https://github.com/SSSYDYSSS/VividCodeRBook">***VividCodeRBook***</a>
-:📔: <a href="https://github.com/SSSYDYSSS/AlgoToolsRBook">***TransProRBook***</a>
-:📔: <a href="https://github.com/SSSYDYSSS/TransProRBook">***AlgoToolsRBook***</a>
+:📔: <a href="https://github.com/SSSYDYSSS/AlgoToolsRBook">***AlgoToolsRBook***</a>
+:📔: <a href="https://github.com/SSSYDYSSS/TransProRBook">***TransProRBook***</a>
 
 ## ask me about anything, i am happy to help
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="210" />
