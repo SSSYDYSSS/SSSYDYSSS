@@ -27,10 +27,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 <div>
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="right" width="60%" />
   
   ## Ask me about anything, I am happy to help.
 
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="right" width="45%" />
+  
   📫 How to reach me:
   - [![Twitter Badge](https://img.shields.io/badge/-twitter-042198?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Dongyue_Yu)
   - ![Email Badge](https://img.shields.io/badge/Email-yudongyue%40mail.nankai.edu.cn-e5a331?style=flat-square&logo=microsoft-outlook&logoColor=ffffff)
