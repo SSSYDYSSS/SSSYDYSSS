@@ -41,8 +41,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ## my github stats 👋
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SSSYDYSSS&show_icons=true&theme=tokyonight" style="width: 52%; height: auto; object-fit: contain;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSYDYSSS&layout=compact&theme=tokyonight" style="width: 47%; height: auto; object-fit: contain;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SSSYDYSSS&show_icons=true&theme=tokyonight" style="width: 56%; height: auto; object-fit: contain;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSYDYSSS&layout=compact&theme=tokyonight" style="width: 43%; height: auto; object-fit: contain;" />
 </div>
 
 <!--
