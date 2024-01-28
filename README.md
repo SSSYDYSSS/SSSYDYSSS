@@ -3,6 +3,15 @@
 ### *Ph.d candiadate at* <a href="https://en.nankai.edu.cn/">***NK(Nankai University)***</a> 
 
 - 🔭 My current field of work involves various key areas such as multi-omics data engineering, software development, artificial intelligence, algorithm development, data visualization, and deep learning.
+  - 🍵 Single-Cell/Nucleus Transcriptomics
+  - 🍵 Chromatin Accessibility Mapping 
+  - 🍵 Spatial Transcriptomics
+  - ☕ Silico Gene Perturbation/Treatment Analysis
+  - ☕ Domain Adaptation
+  - ☕ Representation Learning
+  - ☕ Transfer Learning
+  - 🍸 Python and R Package Development
+  - 🍹 Data analysis and visualization software development
 - 🌱 I am currently immersed in studying programming languages such as R, Linux, Python, Java；
 - 🌱 Build software frameworks using Electron, and implement software visualization with CSS/HTML/D3.js/Shaders/P5.js/Three.js, etc.
 - 🌱 In addition, I am deeply exploring mathematical algorithms in the field of deep learning, biotechnology engineering, and visual development of data mining tools.
@@ -64,6 +73,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🍁 🍃 🍂 🐾 ☘️ 🍀 🌴 🌵 🎍 
+- 🍎 🍏 🍊 🍋 🍒 🍇 🍉 🥥 🥑 🍓 🍑 🥕 🍈 🥒 🍌 🥝 🍐 🍍 🍠 🍆 🧅 🌰 🍅 🥦 🥬 🌽
+- ☕ 🍵 🍶 🍺 🍻 🍸 🍹 🍷 🍙 🍘 🍪 
+- 🎉 🎊
 -->
 
 
