@@ -26,6 +26,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ## R packages
 
 - :🎆: <a href="https://github.com/SSSYDYSSS/TransProR">***TransProR***</a>
+- :🎆: <a href="https://github.com/SSSYDYSSS/MetaTrx">***MetaTrx***</a>
 
 ## Python packages
 
